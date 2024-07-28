@@ -1,6 +1,6 @@
 {
 	"name": "@esusage/plugin-type",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "ESUsage plugin to enable type analysis",
 	"author": "Ayoub Adib <adbayb@gmail.com>",
 	"license": "MIT",
