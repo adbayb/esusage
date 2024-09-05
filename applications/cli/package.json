@@ -1,7 +1,7 @@
 {
 	"name": "@esusage/cli",
 	"description": "A code analyzer to collect ECMAScript modules usage with JSX and TypeScript support",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"publishConfig": {
 		"access": "public"
 	},
