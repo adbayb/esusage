@@ -1,6 +1,6 @@
 {
 	"name": "@sdk-usage/plugin-syntax-typescript",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "sdk-usage parser plugin to enable types syntax analysis",
 	"keywords": [
 		"analyze",
@@ -49,7 +49,7 @@
 		"quickbundle": "2.8.0"
 	},
 	"peerDependencies": {
-		"@sdk-usage/core": "^0.0.0"
+		"@sdk-usage/core": "^0.1.0"
 	},
 	"publishConfig": {
 		"access": "public",

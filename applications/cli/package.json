@@ -1,6 +1,6 @@
 {
 	"name": "@sdk-usage/cli",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "A code analyzer to collect ECMAScript modules usage with JSX and TypeScript support",
 	"homepage": "https://github.com/adbayb/sdk-usage/tree/main/sdk-usage#readme",
 	"bugs": "https://github.com/adbayb/sdk-usage/issues",
